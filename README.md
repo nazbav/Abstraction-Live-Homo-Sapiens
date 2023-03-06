@@ -1,6 +1,27 @@
 # Abstraction Live: Homo Sapiens
 Шутка о происхождении человека и его развитии (need Code Review)
 
+---
+
+Можно было-бы :
+
+- добавить системную среду
+
+- реализовать библейскую теорию
+
+- Реализовать экономические модели (общественно-экономические формации)
+
+---
+
+It would be possible :
+
+- add a system environment
+
+- implement the biblical theory
+
+- Implement economic models (socio-economic formations)
+
+---
 
 Keywords:
 
